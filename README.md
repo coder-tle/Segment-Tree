@@ -10,3 +10,5 @@ https://www.hackerearth.com/practice/data-structures/advanced-data-structures/se
 http://www.spoj.com/problems/GSS1/
 
 * Help Ashu - https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/practice-problems/algorithm/help-ashu-1/description/
+
+* Flipping Coins - https://www.codechef.com/problems/FLIPCOIN
